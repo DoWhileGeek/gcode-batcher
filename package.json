@@ -1,0 +1,15 @@
+{
+    "name": "batcher",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Joeseph Rodrigues <dowhilegeek@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node --experimental-json-modules ."
+    },
+    "dependencies": {
+        "await-spawn": "^4.0.1",
+        "prettier": "^2.2.1"
+    }
+}

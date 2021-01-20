@@ -1,0 +1,18 @@
+{
+  "program": "/Applications/PrusaSlicer.app/Contents/MacOS/PrusaSlicer",
+  "template": "_{layer_height}mm_{filament_type[0]}_{printer_model}_{print_time}.gcode",
+  "outputDir": "/Users/joesephrodrigues/Documents/workspace/batcher/test",
+  "countFormat": "_x_",
+  "models": [
+    {
+      "name": "straw_mini_mickey",
+      "quantities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 16, 24],
+      "file": "/Users/joesephrodrigues/Dropbox/models/projects/ears/setups/straw_mini_mickey.3mf"
+    },
+    {
+      "name": "straw_mini_heart",
+      "quantities": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "file": "/Users/joesephrodrigues/Dropbox/models/projects/ears/setups/straw_mini_heart.3mf"
+    }
+  ]
+}
