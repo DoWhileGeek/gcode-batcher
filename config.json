@@ -1,7 +1,7 @@
 {
   "program": "/Applications/PrusaSlicer.app/Contents/MacOS/PrusaSlicer",
   "template": "_{layer_height}mm_{filament_type[0]}_{printer_model}_{print_time}.gcode",
-  "outputDir": "/Users/joesephrodrigues/Documents/workspace/batcher/test",
+  "outputDir": "/Users/joesephrodrigues/Dropbox/gcode/prusa mk3s/test",
   "countFormat": "_x_",
   "models": [
     {
